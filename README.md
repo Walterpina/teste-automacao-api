@@ -2,7 +2,7 @@
 
 Teste Automação de API
 
-** Necessário isntalar o newman Utilizando o comando: npm install -g newman
+** Necessário instalar o newman utilizando o comando: npm install -g newman
 
 ** Para rodar é necessário utilizar o comando:
 
